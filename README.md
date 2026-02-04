@@ -28,7 +28,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="player.png" alt="Player Spritesheet" width="500">
+  <img src="images/player.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
@@ -36,7 +36,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Enemies and NPCs:
 <div style="text-align: center;">
-  <img src="enemybig.png" alt="Enemy" width="500">
+  <img src="images/enemybig.png" alt="Enemy" width="500">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
