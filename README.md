@@ -1,6 +1,6 @@
 # 🎮 **Forest Guardian** 
 
-> **Short Pitch**: In the 2D adventure game Forest Guardian, you become a witch in a haunted forest. You must avoid or fight evil spirits and collect enough ingredients to make a potion that will protect the forest!
+> In the 2D adventure game Forest Guardian, you become a witch in a haunted forest. You must avoid or fight evil spirits and collect enough ingredients to make a potion that will protect the forest!
 > 
 
 ---
